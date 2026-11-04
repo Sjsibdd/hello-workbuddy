@@ -1,0 +1,8 @@
+# 系统文件备份，不入库
+hosts.backup
+hosts.bak*
+
+# 系统生成
+Thumbs.db
+desktop.ini
+.DS_Store
